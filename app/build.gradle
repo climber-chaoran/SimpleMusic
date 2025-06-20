@@ -1,14 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        debug {
-            storePassword '123456'
-            keyAlias '123456'
-            keyPassword '123456'
-            storeFile file('C:\\Users\\sunnianzhong\\123456.jks')
-        }
-    }
+
     compileSdkVersion 34
     defaultConfig {
         applicationId "com.example.simplemusic"
