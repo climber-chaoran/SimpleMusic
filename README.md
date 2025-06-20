@@ -21,4 +21,4 @@ https://github.com/ikunjee/SimpleMusic
 - 11 每首音乐用自己的图标 √
 - 12 点音乐图标弹框显示音乐路径 √
 
-<img src="showimgs/本地音乐.png" width = "30%"/>
+<img src="showimgs/本地音乐.jpg" width = "30%"/>
